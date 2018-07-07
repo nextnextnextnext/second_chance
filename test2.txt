@@ -1,3 +1,2 @@
 新しいファイルです
-git add
-git commit
+UTF8
