@@ -3,3 +3,5 @@ git add
 git commit
 
 2019/1/5 更新
+
+second chance のテストだよ
